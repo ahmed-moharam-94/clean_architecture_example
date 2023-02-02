@@ -25,12 +25,12 @@ structured with clean architecture
 - [api](https://jsonplaceholder.typicode.com/)
 - [Course](https://pokeapi.co/)
 
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_1.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_2.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_3.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_4.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_5.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_6.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_7.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_8.jpg" width="200" height="400"> |
-<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_9.jpg" width="200" height="300"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_1.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_2.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_3.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_4.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_5.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_6.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_7.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_8.jpg" width="200" height="400"> |
+<img src="https://github.com/ahmed-moharam-94/clean_architecture_example/blob/master/media/screen_shot_9.jpg" width="200" height="300"> |
