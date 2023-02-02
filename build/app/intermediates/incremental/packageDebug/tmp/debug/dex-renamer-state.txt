@@ -1,0 +1,4 @@
+#Thu Feb 02 11:10:57 EET 2023
+base.0=/Users/ahmedmoharam/my_github/clean_architecture_example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
